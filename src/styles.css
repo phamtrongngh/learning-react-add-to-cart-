@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Header ul li {
+  list-style-type: none;
+  float: left;
+  margin-left: 20px;
+}
+.Header {
+  overflow: hidden;
+  background-color: aqua;
+}
